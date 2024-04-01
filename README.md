@@ -1,3 +1,5 @@
+# Moonshine AQUA Python Package | Autonomous Quasi-Unlimited Agent AI Training
+
 Moonshine AI's msaqua: Autonomous Quasi-Unlimited Agent AI (Python Package)
 msaqua is a Python package designed to automate workflows using cutting-edge Functional Specific Learning Algorithms (FSLAs) from the world of reinforcement learning. It empowers developers to create intelligent agents capable of adapting to complex environments and tasks.
 
